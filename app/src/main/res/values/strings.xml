@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab05</string>
+    <string name="reset_run_data">Reset Run Data</string>
+    <string name="reset_lifetime_data">Reset Lifetime Data</string>
+</resources>
